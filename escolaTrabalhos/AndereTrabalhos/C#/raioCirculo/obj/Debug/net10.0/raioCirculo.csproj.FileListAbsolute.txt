@@ -1,0 +1,29 @@
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.exe
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.deps.json
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.runtimeconfig.json
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.dll
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.pdb
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.AssemblyInfoInputs.cache
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.AssemblyInfo.cs
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.dll
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\refint\raioCirculo.dll
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.pdb
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.genruntimeconfig.cache
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\ref\raioCirculo.dll
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.exe
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.deps.json
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.runtimeconfig.json
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.dll
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\bin\Debug\net10.0\raioCirculo.pdb
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.AssemblyInfoInputs.cache
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.AssemblyInfo.cs
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.csproj.CoreCompileInputs.cache
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.sourcelink.json
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.dll
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\refint\raioCirculo.dll
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.pdb
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\raioCirculo.genruntimeconfig.cache
+C:\vs_codigo\escolaTrabalhos\AndereTrabalhos\C#\raioCirculo\obj\Debug\net10.0\ref\raioCirculo.dll

@@ -1,0 +1,14 @@
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\bin\Debug\net10.0\Imcalc.exe
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\bin\Debug\net10.0\Imcalc.deps.json
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\bin\Debug\net10.0\Imcalc.runtimeconfig.json
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\bin\Debug\net10.0\Imcalc.dll
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\bin\Debug\net10.0\Imcalc.pdb
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.AssemblyInfoInputs.cache
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.AssemblyInfo.cs
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.dll
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\refint\Imcalc.dll
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.pdb
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\Imcalc.genruntimeconfig.cache
+C:\Users\Alunos\3D Objects\ScrapDungeon\vs_codigo\MoscaTrabalhos\Imcalc\obj\Debug\net10.0\ref\Imcalc.dll

@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\bin\Debug\net10.0\AtividadeMosca1.exe
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\bin\Debug\net10.0\AtividadeMosca1.deps.json
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\bin\Debug\net10.0\AtividadeMosca1.runtimeconfig.json
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\bin\Debug\net10.0\AtividadeMosca1.dll
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\bin\Debug\net10.0\AtividadeMosca1.pdb
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.dll
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\refint\AtividadeMosca1.dll
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.pdb
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\AtividadeMosca1.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Atividades\DPL\AtividadeMosca1\obj\Debug\net10.0\ref\AtividadeMosca1.dll
