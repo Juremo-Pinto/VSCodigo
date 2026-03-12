@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj": {}
+    "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj": {
+    "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj",
+        "projectUniqueName": "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj",
         "projectName": "Imcalc",
-        "projectPath": "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj",
+        "projectPath": "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\Imcalc\\Imcalc.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\Imcalc\\obj\\",
+        "outputPath": "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\Imcalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

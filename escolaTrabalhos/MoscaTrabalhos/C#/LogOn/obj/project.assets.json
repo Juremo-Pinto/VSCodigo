@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\LogOn\\LogOn.csproj",
+      "projectUniqueName": "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\LogOn\\LogOn.csproj",
       "projectName": "LogOn",
-      "projectPath": "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\LogOn\\LogOn.csproj",
+      "projectPath": "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\LogOn\\LogOn.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\3D Objects\\ScrapDungeon\\vs_codigo\\MoscaTrabalhos\\C#\\LogOn\\obj\\",
+      "outputPath": "C:\\VSCodigo\\escolaTrabalhos\\MoscaTrabalhos\\C#\\LogOn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
