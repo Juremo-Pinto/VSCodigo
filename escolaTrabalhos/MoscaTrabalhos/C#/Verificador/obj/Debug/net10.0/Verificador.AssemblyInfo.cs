@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verificador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f9ab5453b31cfd225e78cbb7399fc831c48e498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8c9efbaa998cc00f84c60599555418f6c916f96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verificador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verificador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
