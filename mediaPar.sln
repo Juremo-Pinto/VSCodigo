@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "escolaTrabalhos", "escolaTrabalhos", "{97801D5D-4A1B-C74C-B4FD-7AA55974EF73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AndereTrabalhos", "AndereTrabalhos", "{DBAB612C-6B63-4619-39D4-AE27277EA601}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula4", "Aula4", "{3276BDED-FF0C-3AE9-2732-5CEA19E8C2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaPar", "escolaTrabalhos\AndereTrabalhos\Aula4\mediaPar\mediaPar.csproj", "{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Debug|x64.Build.0 = Debug|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Debug|x86.Build.0 = Debug|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Release|x64.ActiveCfg = Release|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Release|x64.Build.0 = Release|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Release|x86.ActiveCfg = Release|Any CPU
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBAB612C-6B63-4619-39D4-AE27277EA601} = {97801D5D-4A1B-C74C-B4FD-7AA55974EF73}
+		{3276BDED-FF0C-3AE9-2732-5CEA19E8C2BC} = {DBAB612C-6B63-4619-39D4-AE27277EA601}
+		{E4CFAD95-A177-4DE8-A138-7056DB8FB39A} = {3276BDED-FF0C-3AE9-2732-5CEA19E8C2BC}
+	EndGlobalSection
+EndGlobal
