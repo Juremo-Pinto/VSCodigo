@@ -1,0 +1,11 @@
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\bin\Debug\DeliveryApp.exe.config
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\bin\Debug\DeliveryApp.exe
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\bin\Debug\DeliveryApp.pdb
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.csproj.AssemblyReference.cache
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.Form1.resources
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.Form2.resources
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.Properties.Resources.resources
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.csproj.GenerateResource.cache
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.csproj.CoreCompileInputs.cache
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.exe
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\DeliveryApp\DeliveryApp\obj\Debug\DeliveryApp.pdb
