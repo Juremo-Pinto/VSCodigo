@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="..\..\..\..\..\..\Users\Alunos\Desktop\Delivery\MaidTex.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="..\..\..\..\..\..\Users\Alunos\Desktop\Delivery\MaidTex.Designer.cs">
+      <DependentUpon>MaidTex.cs</DependentUpon>
     </Compile>
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
@@ -60,8 +60,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="..\..\..\..\..\..\Users\Alunos\Desktop\Delivery\MaidTex.resx">
+      <DependentUpon>MaidTex.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
@@ -148,6 +148,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\carrinho yay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe rosio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paltyous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kirby.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kirby1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lavanda.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -113,6 +113,16 @@ namespace DeliveryApp.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cafe_rosio {
+            get {
+                object obj = ResourceManager.GetObject("cafe rosio", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap caramoto {
             get {
                 object obj = ResourceManager.GetObject("caramoto", resourceCulture);
@@ -183,6 +193,16 @@ namespace DeliveryApp.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap fundo {
+            get {
+                object obj = ResourceManager.GetObject("fundo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fundo_transparente_no_tema_do_menu_do_restaurante_600765_9940_1845098574 {
             get {
                 object obj = ResourceManager.GetObject("fundo-transparente-no-tema-do-menu-do-restaurante_600765-9940-1845098574", resourceCulture);
@@ -193,9 +213,39 @@ namespace DeliveryApp.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kirby {
+            get {
+                object obj = ResourceManager.GetObject("kirby", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kirby1 {
+            get {
+                object obj = ResourceManager.GetObject("kirby1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap lasga_ezgif_com_webp_to_png_converter {
             get {
                 object obj = ResourceManager.GetObject("lasga-ezgif.com-webp-to-png-converter", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lavanda {
+            get {
+                object obj = ResourceManager.GetObject("lavanda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -216,6 +266,16 @@ namespace DeliveryApp.Properties {
         internal static System.Drawing.Bitmap massadabatatata {
             get {
                 object obj = ResourceManager.GetObject("massadabatatata", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap paltyous {
+            get {
+                object obj = ResourceManager.GetObject("paltyous", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
