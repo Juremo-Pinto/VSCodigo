@@ -1,0 +1,10 @@
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\bin\Debug\guh2.exe.config
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\bin\Debug\guh2.exe
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\bin\Debug\guh2.pdb
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.csproj.AssemblyReference.cache
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.Form1.resources
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.Properties.Resources.resources
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.csproj.GenerateResource.cache
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.csproj.CoreCompileInputs.cache
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.exe
+C:\VSCodigo\escolaTrabalhos\MoscaTrabalhos\ewww\guh2\guh2\obj\Debug\guh2.pdb
