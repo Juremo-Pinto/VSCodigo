@@ -1,1 +1,2 @@
-My customized VSC workspace with all my "personal" code, basically me learning to code!
+# VSCODE
+My customized VSC workspace with all my "personal" code; theme; schoolwork; etc, basically me learning to code!
