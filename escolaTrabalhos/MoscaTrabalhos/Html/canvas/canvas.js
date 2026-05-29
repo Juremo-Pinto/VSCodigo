@@ -45,6 +45,7 @@ for (let laranjas = 0; laranjas < 10; laranjas++) {
         dx: (Math.random() - 0.5) * 2,
         dy: (Math.random() - 0.5) * 2,
         angle: 0,
+        //
         rotationSpeed: (Math.random() - 0.5) * 0.1,
         // Color
         color: `rgb(${Math.floor(Math.random() * 256)}, 0, 0)`
