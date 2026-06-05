@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Imcalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7463399559fd2f198b0ec4ecea75acf54b58fd51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7fe9c3522b8d060594c90edf2a15ab179f1915e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Imcalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Imcalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
