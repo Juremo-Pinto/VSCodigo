@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogOn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b15b4bba9c3a72cba5d2b3392d7776545e87534")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aaecf01c4043c015a180f794bb07b381eda2a84")]
+>>>>>>> fb40564291078b06d44a7093f222e4f79cd582b8
 [assembly: System.Reflection.AssemblyProductAttribute("LogOn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogOn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
