@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tabuada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4dc54d8bde6291e23da913e399e29ad040e19c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b278a819474c77ac37fa0f1586c34d8eb8d391")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tabuada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tabuada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

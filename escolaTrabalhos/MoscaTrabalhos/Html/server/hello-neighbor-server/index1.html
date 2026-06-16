@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hello</title>
+
+<style>
+    *{
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+    }
+
+    body{
+        background:#ffffff;
+        color:#000000;
+        font-family:Arial, sans-serif;
+        height:100vh;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        overflow:hidden;
+    }
+
+    #hello{
+        font-size:6rem;
+        font-weight:100;
+        letter-spacing:0.2em;
+        transition:all 1s;
+        cursor:default;
+    }
+
+    .small{
+        position:absolute;
+        color:#888;
+        font-size:0.8rem;
+        user-select:none;
+    }
+</style>
+</head>
+<body>
+
+<h1 id="hello">HELLO</h1>
+
+<script>
+const hello = document.getElementById("hello");
+
+const messages = [
+    "hello",
+    "hi",
+    "good morning",
+    "can you hear me?",
+    "hello?",
+    "HELLO",
+    "still there?",
+    "why are you here?",
+    "don't leave",
+    "hello"
+];
+
+let index = 0;
+
+setInterval(() => {
+    index = (index + 1) % messages.length;
+    hello.textContent = messages[index];
+}, 3000);
+
+setInterval(() => {
+    const txt = document.createElement("div");
+    txt.className = "small";
+    txt.textContent = "hello";
+
+    txt.style.left = Math.random()*100 + "vw";
+    txt.style.top = Math.random()*100 + "vh";
+
+    document.body.appendChild(txt);
+
+    setTimeout(() => txt.remove(), 10000);
+}, 500);
+
+document.addEventListener("mousemove", e => {
+    hello.style.transform =
+        `translate(${(e.clientX-window.innerWidth/2)/50}px,
+                   ${(e.clientY-window.innerHeight/2)/50}px)`;
+});
+</script>
+
+</body>
+</html>
