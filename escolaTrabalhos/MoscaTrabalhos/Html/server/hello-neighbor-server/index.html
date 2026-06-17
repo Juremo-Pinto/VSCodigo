@@ -13,7 +13,25 @@
 </head>
 
 <body>
-    <h1>Head 🤤</h1>
+    <h1>Site do botão :D</h1>
+
+    <p>Você clicou no botão <span id="count">0</span> vezes.</p>
+
+    <button onclick="clicar()">Clique Aqui</button>
+
+    <p>
+        <a href="/hello">Ir para a página Hello</a>
+    </p>
+
+    <script>
+        let contador = 0;
+
+        function clicar() {
+            contador++;
+            document.getElementById("count").textContent = contador;
+        }
+    </script>
+
     <script src='hesaidhelloneighbor.js'></script>
 </body>
 
