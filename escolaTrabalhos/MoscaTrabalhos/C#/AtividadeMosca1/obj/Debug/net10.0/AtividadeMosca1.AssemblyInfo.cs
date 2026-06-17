@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeMosca1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb40564291078b06d44a7093f222e4f79cd582b8")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b15b4bba9c3a72cba5d2b3392d7776545e87534")]
->>>>>>> 87a67f3227610fe4630b46fe012f719eaac0fadf
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb94e0d67a6d651767dd26a0222315703d3e97db")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeMosca1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeMosca1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
