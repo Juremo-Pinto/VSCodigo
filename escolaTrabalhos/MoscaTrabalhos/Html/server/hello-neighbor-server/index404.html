@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <style>
+        :root {
+            --bg: #f5f5f5;
+            --text: #222;
+            --secondary: #666;
+            --border: #ddd;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 500px;
+            padding: 40px;
+        }
+
+        h1 {
+            font-size: 72px;
+            font-weight: 300;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 16px;
+        }
+
+        p {
+            color: var(--secondary);
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+
+        a {
+            display: inline-block;
+            text-decoration: none;
+            color: var(--text);
+            border: 1px solid var(--border);
+            padding: 10px 20px;
+            transition: background 0.2s ease;
+        }
+
+        a:hover {
+            background: #e9e9e9;
+        }
+
+        .code {
+            color: var(--secondary);
+            font-size: 13px;
+            margin-top: 30px;
+            font-family: Consolas, monospace;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <h2>Page Not Found</h2>
+        <p>
+            The requested resource could not be located.
+            Please verify the address or return to the homepage.
+        </p>
+
+        <a href="/">Return Home</a>
+
+        <div class="code">
+            Error Code: HTTP 404
+        </div>
+    </div>
+</body>
+
+</html>
