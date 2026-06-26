@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNKNOWN</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background:
+                radial-gradient(circle at center, #111 0%, #050505 60%, black 100%);
+            overflow: hidden;
+            font-family: 'VT323', monospace;
+            color: white;
+            height: 100vh;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            background:
+                repeating-linear-gradient(transparent 0px,
+                    rgba(255, 255, 255, .03) 2px,
+                    transparent 4px);
+            animation: flicker .12s infinite;
+            pointer-events: none;
+        }
+
+        @keyframes flicker {
+            50% {
+                opacity: .75;
+            }
+        }
+
+        .center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 450px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 60px;
+            letter-spacing: 8px;
+            text-shadow:
+                0 0 10px white,
+                0 0 20px crimson;
+            animation: glitch 2s infinite;
+        }
+
+        @keyframes glitch {
+
+            0%,
+            100% {
+                transform: translateX(0);
+            }
+
+            20% {
+                transform: translateX(-2px);
+            }
+
+            21% {
+                transform: translateX(4px);
+            }
+
+            50% {
+                transform: translateX(-3px);
+            }
+
+        }
+
+        input {
+            margin-top: 30px;
+            width: 100%;
+            padding: 15px;
+            background: black;
+            border: 2px solid #555;
+            color: white;
+            font-family: inherit;
+            font-size: 28px;
+            text-align: center;
+            outline: none;
+        }
+
+        input:focus {
+            border-color: red;
+            box-shadow: 0 0 20px red;
+        }
+
+        button {
+            margin-top: 30px;
+            padding: 18px 45px;
+            background: #090909;
+            color: white;
+            border: 2px solid red;
+            cursor: pointer;
+            font-size: 28px;
+            transition: .3s;
+            font-family: inherit;
+        }
+
+        button:hover {
+            background: red;
+            color: black;
+            box-shadow:
+                0 0 30px red,
+                0 0 60px crimson;
+            transform: scale(1.04);
+        }
+
+        #msg {
+            margin-top: 30px;
+            color: #bbb;
+            font-size: 28px;
+            min-height: 40px;
+        }
+
+        .whisper {
+            position: absolute;
+            color: rgba(255, 255, 255, .08);
+            font-size: 28px;
+            user-select: none;
+            animation: float 12s linear infinite;
+        }
+
+        @keyframes float {
+            from {
+                transform: translateY(20px);
+                opacity: 0;
+            }
+
+            30% {
+                opacity: 1;
+            }
+
+            70% {
+                opacity: 1;
+            }
+
+            to {
+                transform: translateY(-60px);
+                opacity: 0;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="whisper" style="left:8%;top:15%;">don't blink</div>
+    <div class="whisper" style="left:72%;top:25%;animation-delay:2s;">it knows</div>
+    <div class="whisper" style="left:15%;top:80%;animation-delay:5s;">wake up</div>
+    <div class="whisper" style="left:78%;top:70%;animation-delay:8s;">turn around</div>
+
+    <div class="center">
+
+        <h1>UNKNOWN</h1>
+
+        <input id="text" placeholder="Type something...">
+
+        <br>
+
+        <button onclick="jogar()">
+            click me
+        </button>
+
+        <div id="msg"></div>
+
+    </div>
+
+    <script>
+
+        const frases = [
+            "get it right...",
+            "running out of time",
+            "take this seriously",
+            "please hurry",
+            "why",
+            "ERROR"
+        ];
+
+        const input = document.getElementById("text");
+        const msg = document.getElementById("msg");
+
+        let tentativas = 0;
+        const maxTentativas = 5;
+
+        function jogar() {
+
+            const chute = Number(input.value);
+
+            tentativas++;
+
+            if (chute === numeroSecreto) {
+
+                location.href = "/goodjob";
+                return;
+
+            }
+
+            if (chute > numeroSecreto) {
+
+                msg.innerHTML = "Muito alto.";
+
+            } else {
+
+                msg.innerHTML = "Muito baixo.";
+
+            }
+
+            if (tentativas >= maxTentativas) {
+
+                msg.innerHTML += "<br>Fim de jogo!";
+            }
+
+        }
+
+    </script>
+
+</body>
+
+</html>
