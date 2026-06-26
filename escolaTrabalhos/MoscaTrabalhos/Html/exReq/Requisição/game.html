@@ -179,6 +179,8 @@
 
         <div id="msg"></div>
 
+        <div id="dica"></div>
+
     </div>
 
     <script>
@@ -192,39 +194,18 @@
             "ERROR"
         ];
 
-        const input = document.getElementById("text");
-        const msg = document.getElementById("msg");
-
-        let tentativas = 0;
-        const maxTentativas = 5;
+        const chute = Number(document.getElementById("text").value);
 
         function jogar() {
 
             const chute = Number(input.value);
 
-            tentativas++;
+            location.href = "/jogar?chute=" + chute;
 
-            if (chute === numeroSecreto) {
+            const r = Math.floor(Math.random() * frases.length);
 
-                location.href = "/goodjob";
-                return;
-
-            }
-
-            if (chute > numeroSecreto) {
-
-                msg.innerHTML = "Muito alto.";
-
-            } else {
-
-                msg.innerHTML = "Muito baixo.";
-
-            }
-
-            if (tentativas >= maxTentativas) {
-
-                msg.innerHTML += "<br>Fim de jogo!";
-            }
+            document.getElementById("msg").innerHTML = frases[r];
+            document.body.style.filter = `hue-rotate(${Math.random() * 360}deg)`;
 
         }
 
