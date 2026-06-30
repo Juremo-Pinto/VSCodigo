@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>You Win</title>
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+    margin:0;
+    background:black;
+    color:#9eff9e;
+    font-family:'VT323',monospace;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    overflow:hidden;
+}
+
+body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background:repeating-linear-gradient(
+        transparent 0px,
+        rgba(255,255,255,.03) 2px,
+        transparent 4px
+    );
+    animation:flicker .12s infinite;
+}
+
+@keyframes flicker{
+50%{opacity:.75;}
+}
+
+.box{
+    text-align:center;
+}
+
+h1{
+    font-size:70px;
+    color:#7CFF7C;
+    text-shadow:0 0 20px lime;
+}
+
+p{
+    font-size:35px;
+}
+
+button{
+    margin-top:30px;
+    padding:15px 40px;
+    background:black;
+    color:white;
+    border:2px solid lime;
+    cursor:pointer;
+    font-family:inherit;
+    font-size:28px;
+}
+
+button:hover{
+    background:lime;
+    color:black;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>good.</h1>
+
+<p>it has been appeased</p>
+
+<p>you may rest now</p>
+
+</div>
+
+</body>
+</html>

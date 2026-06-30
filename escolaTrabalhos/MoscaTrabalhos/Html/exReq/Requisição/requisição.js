@@ -35,14 +35,19 @@ const server = http.createServer((req, res) => {
 
             res.writeHead(302, { Location: "/goodjob" });
 
-        } else if (tentativas >= 0) {
+        } else if (tentativas > 0) {
 
             if (chute > numeroSecreto) {
-                document.getElementById("dica").innerHTML = ;
+
+                res.writeHead(302, { Location: "/?dica=alto" });
+
+            } else {
+
+                res.writeHead(302, { Location: "/?dica=baixo" });
 
             }
 
-            res.writeHead(302, { Location: "/" });
+            res.end();
 
         } else {
 
@@ -89,3 +94,10 @@ const server = http.createServer((req, res) => {
 
     };
 })
+
+const port = 3001;
+server.listen(port, () => {
+    console.log('Servidor rodano em http://localhost:3001/');
+    console.log(numeroSecreto);
+
+});

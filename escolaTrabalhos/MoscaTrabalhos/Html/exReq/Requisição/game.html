@@ -185,6 +185,17 @@
 
     <script>
 
+        const params = new URLSearchParams(window.location.search);
+        const dica = params.get("dica");
+
+        const input = document.getElementById("text");
+
+        if (dica === "alto") {
+            document.getElementById("dica").innerHTML = "Muito alto!";
+        } else if (dica === "baixo") {
+            document.getElementById("dica").innerHTML = "Muito baixo!";
+        }
+
         const frases = [
             "get it right...",
             "running out of time",
@@ -193,8 +204,6 @@
             "why",
             "ERROR"
         ];
-
-        const chute = Number(document.getElementById("text").value);
 
         function jogar() {
 

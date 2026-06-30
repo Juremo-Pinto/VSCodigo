@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Game Over</title>
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+    margin:0;
+    background:#050505;
+    color:white;
+    font-family:'VT323',monospace;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    overflow:hidden;
+}
+
+body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background:repeating-linear-gradient(
+        transparent 0px,
+        rgba(255,255,255,.03) 2px,
+        transparent 4px
+    );
+    animation:flicker .1s infinite;
+}
+
+@keyframes flicker{
+50%{opacity:.8;}
+}
+
+.box{
+    text-align:center;
+}
+
+h1{
+    font-size:70px;
+    color:#ff4444;
+    text-shadow:0 0 25px crimson;
+    animation:shake .15s infinite;
+}
+
+@keyframes shake{
+
+0%,100%{transform:translateX(0);}
+25%{transform:translateX(-2px);}
+50%{transform:translateX(2px);}
+75%{transform:translateX(-2px);}
+
+}
+
+p{
+    font-size:34px;
+    color:#bbbbbb;
+}
+
+button{
+    margin-top:35px;
+    padding:15px 40px;
+    background:black;
+    color:white;
+    border:2px solid crimson;
+    cursor:pointer;
+    font-family:inherit;
+    font-size:28px;
+}
+
+button:hover{
+    background:crimson;
+    color:black;
+}
+
+.whisper{
+    position:fixed;
+    color:rgba(255,255,255,.06);
+    font-size:30px;
+    user-select:none;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="whisper" style="left:5%;top:10%;">you were close</div>
+<div class="whisper" style="right:8%;top:25%;">try again</div>
+<div class="whisper" style="left:15%;bottom:15%;">it changed</div>
+<div class="whisper" style="right:10%;bottom:20%;">don't trust the numbers</div>
+
+<div class="box">
+
+<h1>no</h1>
+
+<p>its too late</p>
+
+<p>the number matters no more</p>
+
+</div>
+
+</body>
+</html>
